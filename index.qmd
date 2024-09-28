@@ -11,7 +11,7 @@ about:
       href: https://orcid.org/orcid=0000-0001-8031-8067
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/aryazand/
 ---
 
 ::: {#hero-heading}
