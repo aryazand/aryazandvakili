@@ -1,0 +1,18 @@
+---
+title: "Treating Hepatitis C within Addiction Medicine Clinic"
+categories: [clinical research, infectious disease, addiction]
+image: "image.jpg"
+---
+
+Here we are study the impact of treating hepatitis C within an Addiction Medicine 
+clinic. 
+
+Due exorbitant costs, Iowa Medicaid restricts insurance coverage for direct-acting
+antiviral (DAA) therapy. Until recently Iowa Medicaid only paid for hepatitis C DAAs 
+when prescribed by either Hepatology or Infectious Disease specialists. Recently, this rule
+was relaxed to allow other clinicians to prescribe DAAs just in "collaboration" with a specialists. 
+This rule-change provided an opportunity for the University of Iowa addiction medicine clinic to
+prescribe DAAs to their patients with chronic hepatitis C. 
+
+For this project, we compared time-to-treatment when the addiction medicine clinicians 
+to treat Hepatitis C directly to referring to a specialists.   

@@ -1,0 +1,8 @@
+---
+title: "Transcriptional control of cytomegalovirus genes"
+categories: [molecular biology, bioinformatics]
+image: "image.png"
+---
+
+For my post-doctoral research project, I am studying the transcriptional control
+of cytomegalovirus promoters during CMV reactivation. 

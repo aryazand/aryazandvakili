@@ -4,10 +4,10 @@ project:
 
 website:
   page-navigation: true
-  title: "Hello :)"
+  title: "Arya Zandvakili"
 
   page-footer:
-    left: "&copy; Copyright 2022, Author"
+    left: "&copy; Copyright 2024, Arya Zandvakili"
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
 
   sidebar:
@@ -17,21 +17,20 @@ website:
     collapse-level: 1
     contents:
 
-      - text: "Projects"
-        href: projects/index.qmd
+      - text: "Research"
+        href: research/research.qmd
 
-      - text: "Talks"
-        href: talks/index.qmd
+      - text: "Publications"
+        href: publications/publications.qmd
 
+      - text: "Advocacy"
+        href: advocacy/advocacy.qmd
+        
       - text: "Blog"
-        href: blog.qmd
-
-      - section: "About"
-        contents:
-          - text: "About me"
-            href: about.qmd
-          - text: "This template"
-            href: about_template.qmd
+        href: blog/blog.qmd
+        
+      - text: "CV"
+        href: cv/cv.qmd
 
 
 format:

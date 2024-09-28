@@ -1,0 +1,9 @@
+---
+title: "Deciphering logic embedded in regulatory DNA sequences"
+categories: [molecular biology, bioinformatics]
+image: "image.jpg"
+---
+
+For my PhD thesis, I used fruitflies (*Drosophila melanogaster*) as a model to 
+study how arrangement and affinity of transcription factor binding sites affect 
+transcriptional output.  

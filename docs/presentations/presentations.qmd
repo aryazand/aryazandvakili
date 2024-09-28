@@ -1,0 +1,21 @@
+---
+title: "Presentations"
+description: |
+  Here are a list of some of my research projects
+listing:
+  - id: presentations
+    max-description-length: 500
+    image-height: 150px
+    fields: [image, title, description]
+    contents: 
+      - project_1
+      - project_2
+    type: grid
+    grid-item-border: false
+    
+---
+
+::: {#research_projects}
+:::
+
+

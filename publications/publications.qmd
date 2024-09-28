@@ -1,0 +1,23 @@
+---
+title: "Publications"
+---
+
+## Academic Articles
+
+```{r}
+#| echo: false 
+#| warning: false
+
+library(tidyverse)
+biblio <- readRDS("biblio.RDS")
+biblio <- paste(biblio, collapse = " \n\n") |> 
+  gsub("Zandvakili, A.", "<b>Zandvakili, A.</b>", x = _) |> 
+  gsub("(https:\\/\\/doi.org\\/[[:graph:]]+)(\\s|$)", "<\\1> ", x = _)
+```
+
+`r biblio`
+
+
+## R packages 
+
+Coming soon...hopefully...
