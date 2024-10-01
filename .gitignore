@@ -4,3 +4,5 @@
 .Ruserdata
 /.quarto/
 .httr-oauth
+/docs/
+.Renviron
