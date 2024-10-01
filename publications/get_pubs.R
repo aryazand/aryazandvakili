@@ -1,4 +1,5 @@
-library(tidyverse)
+library(dplyr)
+library(purrr)
 library(rorcid)
 library(rcrossref)
 
